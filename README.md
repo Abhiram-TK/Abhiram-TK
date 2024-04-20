@@ -6,10 +6,9 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=WHEN+IT+COMES+TO+DATA+ANALYSIS;I+EXCEL+🙃)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=WHEN IT COMES TO DATA ANALYSIS;I EXCEL 📈&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 #
@@ -32,6 +31,7 @@
 
 <br/>
 
-<p align="center">🌟 <b>Thank you for your interest in my profile. Looking forward to connecting with you!</b> </p>
-
 #
+
+<h3 align="center">🌟 <b>Thank you for your interest in my profile. Looking forward to connecting with you!</b> </h3>
+
