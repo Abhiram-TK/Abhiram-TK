@@ -25,7 +25,7 @@
 
 <br/>
 
-<div align="center">  <a href="" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100" height="25"/></a> <a href="https://signal.me/#eu/stzPNH2cDrmkWzumrliIRChz3c4rdR-tGSBO3NXnYBX27zihqpNHOoJ3JYjryBIb" target="_blank"><img alt="Signal" src="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white" width="100" height="25"/></a> </div>
+<div align="center">  <a href="https://www.linkedin.com/in/abhiramtk" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100" height="25"/></a> <a href="https://signal.me/#eu/stzPNH2cDrmkWzumrliIRChz3c4rdR-tGSBO3NXnYBX27zihqpNHOoJ3JYjryBIb" target="_blank"><img alt="Signal" src="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white" width="100" height="25"/></a> </div>
 
 <!-- <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
 
