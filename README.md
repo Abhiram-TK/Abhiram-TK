@@ -17,7 +17,7 @@
 
 <br/>
 
-<div align="center">  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" height="40"/> </a> &nbsp; <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" height="40"/> </a>&nbsp;  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"><img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" height="40"></a>&nbsp; <a><img src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png" height="40"></a>&nbsp;  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/> </a></div>
+<div align="center">  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" height="40"/> </a> &nbsp; <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" height="40"/> </a> &nbsp; <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"><img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" height="40"> </a> &nbsp; <a> <img src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png" height="40"> </a> &nbsp; <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/> </a></div>
 
 #
 
@@ -25,7 +25,7 @@
 
 <br/>
 
-<div align="center">  <a href="https://www.linkedin.com/in/abhiramtk" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100" height="25"/></a> <a href="https://signal.me/#eu/stzPNH2cDrmkWzumrliIRChz3c4rdR-tGSBO3NXnYBX27zihqpNHOoJ3JYjryBIb" target="_blank"><img alt="Signal" src="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white" width="100" height="25"/></a> </div>
+<div align="center">  <a href="https://www.linkedin.com/in/abhiramtk" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100" height="25"/></a> <a href="mailto:abhiramtksuresh@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100" height="25"/></a> <a href="https://signal.me/#eu/stzPNH2cDrmkWzumrliIRChz3c4rdR-tGSBO3NXnYBX27zihqpNHOoJ3JYjryBIb" target="_blank"><img alt="Signal" src="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white" width="100" height="25"/></a> </div>
 
 <!-- <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
 
