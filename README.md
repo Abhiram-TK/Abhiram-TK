@@ -33,5 +33,5 @@
 
 #
 
-<h3 align="center">🌟 <b>Thank you for your interest in my profile. Looking forward to connecting with you!</b> </h3>
+<h3 align="center">🌟 <b>Thank you for your interest in my profile. Looking forward to connect with you!</b> </h3>
 
